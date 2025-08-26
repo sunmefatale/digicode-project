@@ -1,9 +1,9 @@
-digicode-project/
- ├── 디지코드.py
+```digicode-project/
+  디지코드.py
  ├── 디지몬퀸피핖티.pptx
  ├── README.md      
  └── LICENSE        
-
+````
 # DigiCode: 감정 진화 프로젝트
 
 ## 📌 개요
